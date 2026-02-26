@@ -3,7 +3,7 @@
  */
 
 // 👇 这里填入你之前建好的最终调度组名称，或者直接填落地节点名称
-const policyName = "AI_与_Google专属"; 
+const policyName = "👍 AI_与_Google专属"; 
 
 // 使用 ip-api 接口获取 IP 详情 (免费且支持中文)
 const url = "http://ip-api.com/json/?lang=zh-CN";
